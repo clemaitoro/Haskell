@@ -1,5 +1,5 @@
 circ :: Double -> Double
-circ r = 2 * pi * r
+circ r = 2 * pi  *  r
 
 area :: Double -> Double
 area r = pi * r^2;
